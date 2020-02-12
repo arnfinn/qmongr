@@ -1,144 +1,144 @@
-﻿num;label;id;parent;shape;color
-1;Helse Nord;rhf_1;norge;box;#deebf7
-2;Helse Midt;rhf_2;norge;box;#deebf7
-3;Helse Vest;rhf_3;norge;box;#deebf7
-4;Helse Sør-Øst;rhf_4;norge;box;#deebf7
-5;Privat;rhf_5;norge;box;#deebf7
-1;Finnmarkssykehuset HF;hf_1;rhf_1;box;#9ecae1
-2;UNN HF;hf_2;rhf_1;box;#9ecae1
-3;NLSH HF;hf_3;rhf_1;box;#9ecae1
-4;Helgelandssykehuset HF;hf_4;rhf_1;box;#9ecae1
-5;Helse Nord-Trøndelag HF;hf_5;rhf_2;box;#9ecae1
-6;St. Olavs Hospital HF;hf_6;rhf_2;box;#9ecae1
-7;Helse Møre og Romsdal HF;hf_7;rhf_2;box;#9ecae1
-9;Helse Førde HF;hf_9;rhf_3;box;#9ecae1
-10;Helse Bergen HF;hf_10;rhf_3;box;#9ecae1
-11;Helse Fonna HF;hf_11;rhf_3;box;#9ecae1
-12;Helse Stavanger HF;hf_12;rhf_3;box;#9ecae1
-13;Resterende Helse Vest RHF;hf_13;rhf_3;box;#9ecae1
-14;Vestre Viken HF;hf_14;rhf_4;box;#9ecae1
-15;Sykehuset Telemark HF;hf_15;rhf_4;box;#9ecae1
-16;Akershus univ.sh HF;hf_16;rhf_4;box;#9ecae1
-17;Sykehuset Innlandet HF;hf_17;rhf_4;box;#9ecae1
-18;Oslo universitetssykehus HF;hf_18;rhf_4;box;#9ecae1
-19;Sunnaas sykehus HF;hf_19;rhf_4;box;#9ecae1
-20;Sykehuset Østfold HF;hf_20;rhf_4;box;#9ecae1
-21;Sørlandet sykehus HF;hf_21;rhf_4;box;#9ecae1
-22;Sykehuset i Vestfold HF;hf_22;rhf_4;box;#9ecae1
-23;Diakonhjemmet sykehus;hf_23;rhf_4;box;#9ecae1
-24;Lovisenberg diakonale sykehus;hf_24;rhf_4;box;#9ecae1
-25;Resterende Helse Sør-Øst RHF;hf_25;rhf_4;box;#9ecae1
-26;Haraldsplass diakonale sykehus;hf_26;rhf_4;box;#9ecae1
-27;Private sykehus;hf_27;rhf_5;box;#9ecae1
-10;Finnmarkssykehuset HF;sh_10;hf_1;box;#3182bd
-11;Klinikk Kirkenes;sh_11;hf_1;box;#3182bd
-12;Klinikk Hammerfest;sh_12;hf_1;box;#3182bd
-20;UNN HF;sh_20;hf_2;box;#3182bd
-21;UNN Tromsø;sh_21;hf_2;box;#3182bd
-22;UNN Harstad;sh_22;hf_2;box;#3182bd
-23;UNN Narvik;sh_23;hf_2;box;#3182bd
-30;NLSH HF;sh_30;hf_3;box;#3182bd
-31;NLSH Vesterålen;sh_31;hf_3;box;#3182bd
-32;NLSH Lofoten;sh_32;hf_3;box;#3182bd
-33;NLSH Bodø;sh_33;hf_3;box;#3182bd
-40;Helgelandssykehuset HF;sh_40;hf_4;box;#3182bd
-41;Helgelandssykehuset Mo i Rana;sh_41;hf_4;box;#3182bd
-42;Helgelandssykehuset Mosjøen;sh_42;hf_4;box;#3182bd
-43;Helgelandssykehuset Sandnessjøen;sh_43;hf_4;box;#3182bd
-50;Helse Nord-Trøndelag HF';sh_50;hf_5;box;#3182bd
-51;Sykehuset Namsos;sh_51;hf_5;box;#3182bd
-52;Sykehuset Levanger;sh_52;hf_5;box;#3182bd
-60;St. Olavs hospital HF';sh_60;hf_6;box;#3182bd
-61;St. Olavs hospital, Trondheim;sh_61;hf_6;box;#3182bd
-62;St. Olavs hospital, Orkdal;sh_62;hf_6;box;#3182bd
-63;St. Olavs hospital, Røros;sh_63;hf_6;box;#3182bd
-64;St. Olavs hospital, Hysnes helsefort;sh_64;hf_6;box;#3182bd
-65;St. Olavs hospital, Ørland;sh_65;hf_6;box;#3182bd
-70;Helse Møre og Romsdal HF' ;sh_70;hf_7;box;#3182bd
-71;Molde sjukehus;sh_71;hf_7;box;#3182bd
-72;Kristiansund sykehus;sh_72;hf_7;box;#3182bd
-73;Ålesund sjukehus;sh_73;hf_7;box;#3182bd
-74;Volda sjukehus;sh_74;hf_7;box;#3182bd
-75;Mork Rehabiliteringssenter;sh_75;hf_7;box;#3182bd
-76;Nevrohjemmet rehabiliteringssenter;sh_76;hf_7;box;#3182bd
-77;Aure rehabiliteringssenter;sh_77;hf_7;box;#3182bd
-90;Helse Førde HF;sh_90;hf_9;box;#3182bd
-91;Førde sjukehus;sh_91;hf_9;box;#3182bd
-92;Nordfjord sjukehus;sh_92;hf_9;box;#3182bd
-93;Lærdal sjukehus;sh_93;hf_9;box;#3182bd
-94;Florø sykehus;sh_94;hf_9;box;#3182bd
-100;Helse Bergen HF;sh_100;hf_10;box;#3182bd
-101;Haukeland universitetssykehus;sh_101;hf_10;box;#3182bd
-102;Kysthospitalet i Hagevik;sh_102;hf_10;box;#3182bd
-103;Voss sjukehus;sh_103;hf_10;box;#3182bd
-104;Bergen legevakt;sh_104;hf_10;box;#3182bd
-110;Helse Fonna HF;sh_110;hf_11;box;#3182bd
-111;Odda sjukehus;sh_111;hf_11;box;#3182bd
-112;Stord sjukehus;sh_112;hf_11;box;#3182bd
-113;Haugesund sjukehus;sh_113;hf_11;box;#3182bd
-114;Helse Fonna, Sauda;sh_114;hf_11;box;#3182bd
-120;Helse Stavanger HF;sh_120;hf_12;box;#3182bd
-121;Stavanger universitetssykehus;sh_121;hf_12;box;#3182bd
-122;Helse Stavanger, Egersund;sh_122;hf_12;box;#3182bd
-130;Resterende Helse Vest RHF, ukjent lok;sh_130;hf_13;box;#3182bd
-131;Betanien spesialistpoliklinikk Bergen;sh_131;hf_13;box;#3182bd
-132;Haugesund sanitetsforenings revm.sykehus;sh_132;hf_13;box;#3182bd
-140;Vestre Viken HF;sh_140;hf_14;box;#3182bd
-141;Drammen sykehus;sh_141;hf_14;box;#3182bd
-142;Bærum sykehus;sh_142;hf_14;box;#3182bd
-143;Ringerike sykehus;sh_143;hf_14;box;#3182bd
-144;Kongsberg sykehus;sh_144;hf_14;box;#3182bd
-150;Sykehuset Telemark HF;sh_150;hf_15;box;#3182bd
-151;Sykehuset Telemark Skien;sh_151;hf_15;box;#3182bd
-152;Sykehuset Telemark Kragerø;sh_152;hf_15;box;#3182bd
-153;Sykehuset Telemark Notodden;sh_153;hf_15;box;#3182bd
-154;Sykehuset Telemark Rjukan;sh_154;hf_15;box;#3182bd
-155;Sykehuset Telemark Nordagutu;sh_155;hf_15;box;#3182bd
-159;Sykehuset Telemark HF, ukjent lok;sh_159;hf_15;box;#3182bd
-160;Akershus universitetssykehus HF;sh_160;hf_16;box;#3182bd
-170;Sykehuset Innlandet HF';sh_170;hf_17;box;#3182bd
-171;Sykehuset Innlandet, Elverum;sh_171;hf_17;box;#3182bd
-172;Sykehuset Innlandet, Gjøvik;sh_172;hf_17;box;#3182bd
-173;Sykehuset Innlandet, Lillehammer;sh_173;hf_17;box;#3182bd
-174;Sykehuset Innlandet, Kongsvinger;sh_174;hf_17;box;#3182bd
-175;Sykehuset Innlandet, Tynset;sh_175;hf_17;box;#3182bd
-176;Sykehuset Innlandet, Granheim;sh_176;hf_17;box;#3182bd
-177;Sykehuset Innlandet, Ottestad;sh_177;hf_17;box;#3182bd
-178;Sykehuset Innlandet, Hamar;sh_178;hf_17;box;#3182bd
-179;Sykehuset Innlandet, Habiliteringstjenesten i Hedmark;sh_179;hf_17;box;#3182bd
-180;Oslo universitetssykehus HF;sh_180;hf_18;box;#3182bd
-181;OUS, Rikshospitalet;sh_181;hf_18;box;#3182bd
-182;OUS, Aker;sh_182;hf_18;box;#3182bd
-183;OUS, Oslo legevakt;sh_183;hf_18;box;#3182bd
-184;OUS, Ullevål;sh_184;hf_18;box;#3182bd
-185;OUS, Spesialsykehuset for epilepsi;sh_185;hf_18;box;#3182bd
-186;OUS, Radiumhospitalet;sh_186;hf_18;box;#3182bd
-187;OUS, Geilomo barnesykehus;sh_187;hf_18;box;#3182bd
-188;OUS, Voksentoppen;sh_188;hf_18;box;#3182bd
-189;OUS, Olafiaklinikken;sh_189;hf_18;box;#3182bd
-190;Sunnaas sykehus;sh_190;hf_19;box;#3182bd
-191;Sunnaas sykehus, Nesodden poliklinikk;sh_191;hf_19;box;#3182bd
-192;Sunnaas sykehus, Aker poliklinikk;sh_192;hf_19;box;#3182bd
-200;Sykehuset Østfold HF;sh_200;hf_20;box;#3182bd
-201;Sykehuset Østfold, Moss;sh_201;hf_20;box;#3182bd
-202;Sykehuset Østfold, Sarpsborg;sh_202;hf_20;box;#3182bd
-203;Sykehuset Østfold, Askim;sh_203;hf_20;box;#3182bd
-210;Sørlandet sykehus HF;sh_210;hf_21;box;#3182bd
-211;Sørlandet sykehus, Kristiansand' ;sh_211;hf_21;box;#3182bd
-212;Sørlandet sykehus, Arendal;sh_212;hf_21;box;#3182bd
-213;Sørlandet sykehus, Flekkefjord;sh_213;hf_21;box;#3182bd
-214;Sørlandet sykehus, Spesialsykehuset for rehabilitering, Kristiansand;sh_214;hf_21;box;#3182bd
-220;Sykehuset i Vestfold HF;sh_220;hf_22;box;#3182bd
-221;Sykehuset i Vestfold, Tønsberg;sh_221;hf_22;box;#3182bd
-222;Sykehuset i Vestfold, Rehabilitering Kysthospitalet Stavern;sh_222;hf_22;box;#3182bd
-223;Sykehuset i Vestfold, Somatikk Solvang;sh_223;hf_22;box;#3182bd
-224;Sykehuset i Vestfold, Habilitering Solvang;sh_224;hf_22;box;#3182bd
-230;Diakonhjemmet sykehus;sh_230;hf_23;box;#3182bd
-240;Lovisenberg diakonale sykehus;sh_240;hf_24;box;#3182bd
-250;Resterende Helse Sør-Øst RHF;sh_250;hf_25;box;#3182bd
-251;Martina Hansens Hospital;sh_251;hf_25;box;#3182bd
-252;Betanien Hospital Skien;sh_252;hf_25;box;#3182bd
-253;Revmatismesykehuset Lillehammer;sh_253;hf_25;box;#3182bd
-254;Oslo kommunale legevakt, Observasjonsposten;sh_254;hf_25;box;#3182bd
-260;Haraldsplass diakonale sykehus;sh_260;hf_26;box;#3182bd
-300;Private sykehus;sh_300;hf_27;box;#3182bd
+﻿label;id;group
+Helse Nord;rhf_1;RHF
+Helse Midt-Norge;rhf_2;RHF
+Helse Vest;rhf_3;RHF
+Helse Sør-Øst;rhf_4;RHF
+Private;rhf_5;RHF
+Finnmarkssykehuset HF;hf_1;HF
+UNN HF;hf_2;HF
+NLSH HF;hf_3;HF
+Helgelandssykehuset HF;hf_4;HF
+Helse Nord-Trøndelag HF;hf_5;HF
+St. Olavs Hospital HF;hf_6;HF
+Helse Møre og Romsdal HF;hf_7;HF
+Helse Førde HF;hf_9;HF
+Helse Bergen HF;hf_10;HF
+Helse Fonna HF;hf_11;HF
+Helse Stavanger HF;hf_12;HF
+Resterende Helse Vest RHF;hf_13;HF
+Vestre Viken HF;hf_14;HF
+Sykehuset Telemark HF;hf_15;HF
+Akershus univ.sh HF;hf_16;HF
+Sykehuset Innlandet HF;hf_17;HF
+Oslo universitetssykehus HF;hf_18;HF
+Sunnaas sykehus HF;hf_19;HF
+Sykehuset Østfold HF;hf_20;HF
+Sørlandet sykehus HF;hf_21;HF
+Sykehuset i Vestfold HF;hf_22;HF
+Diakonhjemmet sykehus;hf_23;HF
+Lovisenberg diakonale sykehus;hf_24;HF
+Resterende Helse Sør-Øst RHF;hf_25;HF
+Haraldsplass diakonale sykehus;hf_26;HF
+Private sykehus;hf_27;HF
+Finnmarkssykehuset HF;sh_10;Sh
+Klinikk Kirkenes;sh_11;Sh
+Klinikk Hammerfest;sh_12;Sh
+UNN HF;sh_20;Sh
+UNN Tromsø;sh_21;Sh
+UNN Harstad;sh_22;Sh
+UNN Narvik;sh_23;Sh
+NLSH HF;sh_30;Sh
+NLSH Vesterålen;sh_31;Sh
+NLSH Lofoten;sh_32;Sh
+NLSH Bodø;sh_33;Sh
+Helgelandssykehuset HF;sh_40;Sh
+Helgelandssykehuset Mo i Rana;sh_41;Sh
+Helgelandssykehuset Mosjøen;sh_42;Sh
+Helgelandssykehuset Sandnessjøen;sh_43;Sh
+Helse Nord-Trøndelag HF';sh_50;Sh
+Sykehuset Namsos;sh_51;Sh
+Sykehuset Levanger;sh_52;Sh
+St. Olavs hospital HF';sh_60;Sh
+St. Olavs hospital, Trondheim;sh_61;Sh
+St. Olavs hospital, Orkdal;sh_62;Sh
+St. Olavs hospital, Røros;sh_63;Sh
+St. Olavs hospital, Hysnes helsefort;sh_64;Sh
+St. Olavs hospital, Ørland;sh_65;Sh
+Helse Møre og Romsdal HF' ;sh_70;Sh
+Molde sjukehus;sh_71;Sh
+Kristiansund sykehus;sh_72;Sh
+Ålesund sjukehus;sh_73;Sh
+Volda sjukehus;sh_74;Sh
+Mork Rehabiliteringssenter;sh_75;Sh
+Nevrohjemmet rehabiliteringssenter;sh_76;Sh
+Aure rehabiliteringssenter;sh_77;Sh
+Helse Førde HF;sh_90;Sh
+Førde sjukehus;sh_91;Sh
+Nordfjord sjukehus;sh_92;Sh
+Lærdal sjukehus;sh_93;Sh
+Florø sykehus;sh_94;Sh
+Helse Bergen HF;sh_100;Sh
+Haukeland universitetssykehus;sh_101;Sh
+Kysthospitalet i Hagevik;sh_102;Sh
+Voss sjukehus;sh_103;Sh
+Bergen legevakt;sh_104;Sh
+Helse Fonna HF;sh_110;Sh
+Odda sjukehus;sh_111;Sh
+Stord sjukehus;sh_112;Sh
+Haugesund sjukehus;sh_113;Sh
+Helse Fonna, Sauda;sh_114;Sh
+Helse Stavanger HF;sh_120;Sh
+Stavanger universitetssykehus;sh_121;Sh
+Helse Stavanger, Egersund;sh_122;Sh
+Resterende Helse Vest RHF, ukjent lok;sh_130;Sh
+Betanien spesialistpoliklinikk Bergen;sh_131;Sh
+Haugesund sanitetsforenings revm.sykehus;sh_132;Sh
+Vestre Viken HF;sh_140;Sh
+Drammen sykehus;sh_141;Sh
+Bærum sykehus;sh_142;Sh
+Ringerike sykehus;sh_143;Sh
+Kongsberg sykehus;sh_144;Sh
+Sykehuset Telemark HF;sh_150;Sh
+Sykehuset Telemark Skien;sh_151;Sh
+Sykehuset Telemark Kragerø;sh_152;Sh
+Sykehuset Telemark Notodden;sh_153;Sh
+Sykehuset Telemark Rjukan;sh_154;Sh
+Sykehuset Telemark Nordagutu;sh_155;Sh
+Sykehuset Telemark HF, ukjent lok;sh_159;Sh
+Akershus universitetssykehus HF;sh_160;Sh
+Sykehuset Innlandet HF';sh_170;Sh
+Sykehuset Innlandet, Elverum;sh_171;Sh
+Sykehuset Innlandet, Gjøvik;sh_172;Sh
+Sykehuset Innlandet, Lillehammer;sh_173;Sh
+Sykehuset Innlandet, Kongsvinger;sh_174;Sh
+Sykehuset Innlandet, Tynset;sh_175;Sh
+Sykehuset Innlandet, Granheim;sh_176;Sh
+Sykehuset Innlandet, Ottestad;sh_177;Sh
+Sykehuset Innlandet, Hamar;sh_178;Sh
+Sykehuset Innlandet, Habiliteringstjenesten i Hedmark;sh_179;Sh
+Oslo universitetssykehus HF;sh_180;Sh
+OUS, Rikshospitalet;sh_181;Sh
+OUS, Aker;sh_182;Sh
+OUS, Oslo legevakt;sh_183;Sh
+OUS, Ullevål;sh_184;Sh
+OUS, Spesialsykehuset for epilepsi;sh_185;Sh
+OUS, Radiumhospitalet;sh_186;Sh
+OUS, Geilomo barnesykehus;sh_187;Sh
+OUS, Voksentoppen;sh_188;Sh
+OUS, Olafiaklinikken;sh_189;Sh
+Sunnaas sykehus;sh_190;Sh
+Sunnaas sykehus, Nesodden poliklinikk;sh_191;Sh
+Sunnaas sykehus, Aker poliklinikk;sh_192;Sh
+Sykehuset Østfold HF;sh_200;Sh
+Sykehuset Østfold, Moss;sh_201;Sh
+Sykehuset Østfold, Sarpsborg;sh_202;Sh
+Sykehuset Østfold, Askim;sh_203;Sh
+Sørlandet sykehus HF;sh_210;Sh
+Sørlandet sykehus, Kristiansand' ;sh_211;Sh
+Sørlandet sykehus, Arendal;sh_212;Sh
+Sørlandet sykehus, Flekkefjord;sh_213;Sh
+Sørlandet sykehus, Spesialsykehuset for rehabilitering, Kristiansand;sh_214;Sh
+Sykehuset i Vestfold HF;sh_220;Sh
+Sykehuset i Vestfold, Tønsberg;sh_221;Sh
+Sykehuset i Vestfold, Rehabilitering Kysthospitalet Stavern;sh_222;Sh
+Sykehuset i Vestfold, Somatikk Solvang;sh_223;Sh
+Sykehuset i Vestfold, Habilitering Solvang;sh_224;Sh
+Diakonhjemmet sykehus;sh_230;Sh
+Lovisenberg diakonale sykehus;sh_240;Sh
+Resterende Helse Sør-Øst RHF;sh_250;Sh
+Martina Hansens Hospital;sh_251;Sh
+Betanien Hospital Skien;sh_252;Sh
+Revmatismesykehuset Lillehammer;sh_253;Sh
+Oslo kommunale legevakt, Observasjonsposten;sh_254;Sh
+Haraldsplass diakonale sykehus;sh_260;Sh
+Private sykehus;sh_300;Sh
