@@ -1,6 +1,8 @@
 
-nodes <- read.csv("data-raw/nodes.csv", colClasses = "character", sep = ";")
-edges <- read.csv("data-raw/edges.csv", colClasses = "character", sep = ";")
+library(magrittr)
+
+nodes <- read.csv("data-raw/nodes.csv", colClasses = "character", sep = ";", fileEncoding = "UTF-8")
+edges <- read.csv("data-raw/edges.csv", colClasses = "character", sep = ";", fileEncoding = "UTF-8")
 
 visNetwork::visNetwork(nodes, edges) %>% 
   visNetwork::visGroups(groupname = "RHF", color = "#deebf7", shape = "box") %>%
