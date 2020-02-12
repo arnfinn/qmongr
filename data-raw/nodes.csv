@@ -30,31 +30,24 @@ Lovisenberg diakonale sykehus;hf_24;HF
 Resterende Helse Sør-Øst RHF;hf_25;HF
 Haraldsplass diakonale sykehus;hf_26;HF
 Private sykehus;hf_27;HF
-Finnmarkssykehuset HF;sh_10;Sh
 Klinikk Kirkenes;sh_11;Sh
 Klinikk Hammerfest;sh_12;Sh
-UNN HF;sh_20;Sh
 UNN Tromsø;sh_21;Sh
 UNN Harstad;sh_22;Sh
 UNN Narvik;sh_23;Sh
-NLSH HF;sh_30;Sh
 NLSH Vesterålen;sh_31;Sh
 NLSH Lofoten;sh_32;Sh
 NLSH Bodø;sh_33;Sh
-Helgelandssykehuset HF;sh_40;Sh
 Helgelandssykehuset Mo i Rana;sh_41;Sh
 Helgelandssykehuset Mosjøen;sh_42;Sh
 Helgelandssykehuset Sandnessjøen;sh_43;Sh
-Helse Nord-Trøndelag HF';sh_50;Sh
 Sykehuset Namsos;sh_51;Sh
 Sykehuset Levanger;sh_52;Sh
-St. Olavs hospital HF';sh_60;Sh
 St. Olavs hospital, Trondheim;sh_61;Sh
 St. Olavs hospital, Orkdal;sh_62;Sh
 St. Olavs hospital, Røros;sh_63;Sh
 St. Olavs hospital, Hysnes helsefort;sh_64;Sh
 St. Olavs hospital, Ørland;sh_65;Sh
-Helse Møre og Romsdal HF' ;sh_70;Sh
 Molde sjukehus;sh_71;Sh
 Kristiansund sykehus;sh_72;Sh
 Ålesund sjukehus;sh_73;Sh
@@ -62,41 +55,33 @@ Volda sjukehus;sh_74;Sh
 Mork Rehabiliteringssenter;sh_75;Sh
 Nevrohjemmet rehabiliteringssenter;sh_76;Sh
 Aure rehabiliteringssenter;sh_77;Sh
-Helse Førde HF;sh_90;Sh
 Førde sjukehus;sh_91;Sh
 Nordfjord sjukehus;sh_92;Sh
 Lærdal sjukehus;sh_93;Sh
 Florø sykehus;sh_94;Sh
-Helse Bergen HF;sh_100;Sh
 Haukeland universitetssykehus;sh_101;Sh
 Kysthospitalet i Hagevik;sh_102;Sh
 Voss sjukehus;sh_103;Sh
 Bergen legevakt;sh_104;Sh
-Helse Fonna HF;sh_110;Sh
 Odda sjukehus;sh_111;Sh
 Stord sjukehus;sh_112;Sh
 Haugesund sjukehus;sh_113;Sh
 Helse Fonna, Sauda;sh_114;Sh
-Helse Stavanger HF;sh_120;Sh
 Stavanger universitetssykehus;sh_121;Sh
 Helse Stavanger, Egersund;sh_122;Sh
 Resterende Helse Vest RHF, ukjent lok;sh_130;Sh
 Betanien spesialistpoliklinikk Bergen;sh_131;Sh
 Haugesund sanitetsforenings revm.sykehus;sh_132;Sh
-Vestre Viken HF;sh_140;Sh
 Drammen sykehus;sh_141;Sh
 Bærum sykehus;sh_142;Sh
 Ringerike sykehus;sh_143;Sh
 Kongsberg sykehus;sh_144;Sh
-Sykehuset Telemark HF;sh_150;Sh
 Sykehuset Telemark Skien;sh_151;Sh
 Sykehuset Telemark Kragerø;sh_152;Sh
 Sykehuset Telemark Notodden;sh_153;Sh
 Sykehuset Telemark Rjukan;sh_154;Sh
 Sykehuset Telemark Nordagutu;sh_155;Sh
-Sykehuset Telemark HF, ukjent lok;sh_159;Sh
 Akershus universitetssykehus HF;sh_160;Sh
-Sykehuset Innlandet HF';sh_170;Sh
 Sykehuset Innlandet, Elverum;sh_171;Sh
 Sykehuset Innlandet, Gjøvik;sh_172;Sh
 Sykehuset Innlandet, Lillehammer;sh_173;Sh
@@ -106,7 +91,6 @@ Sykehuset Innlandet, Granheim;sh_176;Sh
 Sykehuset Innlandet, Ottestad;sh_177;Sh
 Sykehuset Innlandet, Hamar;sh_178;Sh
 Sykehuset Innlandet, Habiliteringstjenesten i Hedmark;sh_179;Sh
-Oslo universitetssykehus HF;sh_180;Sh
 OUS, Rikshospitalet;sh_181;Sh
 OUS, Aker;sh_182;Sh
 OUS, Oslo legevakt;sh_183;Sh
@@ -119,16 +103,13 @@ OUS, Olafiaklinikken;sh_189;Sh
 Sunnaas sykehus;sh_190;Sh
 Sunnaas sykehus, Nesodden poliklinikk;sh_191;Sh
 Sunnaas sykehus, Aker poliklinikk;sh_192;Sh
-Sykehuset Østfold HF;sh_200;Sh
 Sykehuset Østfold, Moss;sh_201;Sh
 Sykehuset Østfold, Sarpsborg;sh_202;Sh
 Sykehuset Østfold, Askim;sh_203;Sh
-Sørlandet sykehus HF;sh_210;Sh
 Sørlandet sykehus, Kristiansand' ;sh_211;Sh
 Sørlandet sykehus, Arendal;sh_212;Sh
 Sørlandet sykehus, Flekkefjord;sh_213;Sh
 Sørlandet sykehus, Spesialsykehuset for rehabilitering, Kristiansand;sh_214;Sh
-Sykehuset i Vestfold HF;sh_220;Sh
 Sykehuset i Vestfold, Tønsberg;sh_221;Sh
 Sykehuset i Vestfold, Rehabilitering Kysthospitalet Stavern;sh_222;Sh
 Sykehuset i Vestfold, Somatikk Solvang;sh_223;Sh
