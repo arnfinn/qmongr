@@ -1,19 +1,18 @@
-test_that("shiny table functions work", {
-  ind_data <- qmongr::load_data() %>%
-    qmongr::filter_data(
-      filter_settings = list(Aar = 2017, ShNavn = "Trondheim, St. Olav")) %>%
-    qmongr::aggregate_data() %>%
-    qmongr::compute_indicator()
-  national_data <- qmongr::load_data("indicator")[["indicator"]] %>%
-    qmongr::compute_national_indicator()
+test_that("qi_table", {
+  ind_data <- readRDS("data/compute_indicator2.rds")
+  national_data <- readRDS("data/compute_national_indicator1.rds")
+  config <- get_config()
+
   table_data <- ind_data %>%
     dplyr::inner_join(
       national_data,
       by = c(.data[["Aar"]],
-             .data[["kvalIndID"]]))
+             .data[["KvalIndID"]]))
 
-  expect_type(
-    qmongr::qi_table(table_data, "Trondheim, St. Olav"), "list")
-  expect_equal(
-    qmongr::qi_table(table_data, "Trondheim, St. Olav")$name, "table")
+  expect_error(qi_table(table_data))
+  expect_equal(qi_table(table_data, "Trondheim, St. Olav", config)
+               [["children"]][[1]][["children"]][[1]]
+               [["children"]][[1]][["children"]][[1]]
+               [["children"]][[1]],
+               config$app_text$table$main_column)
 })
